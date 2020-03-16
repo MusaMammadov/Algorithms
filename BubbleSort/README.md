@@ -1,3 +1,3 @@
 # Bubble Sort
-Worst Case Time Complexity: O(n*n)
+Worst Case Time Complexity: O(n*n),
 Best Case Time Complexity: O(n)
