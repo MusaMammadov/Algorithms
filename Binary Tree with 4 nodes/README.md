@@ -1,0 +1,1 @@
+A simple tree with 4 nodes
